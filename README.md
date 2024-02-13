@@ -1,13 +1,15 @@
-#Sales Analysis and Visualization
+Sales Analysis and Visualization
 
 
 
 
 
 
-\    ##Exploring Sales Market Data for Analysis
+Exploring Sales Market Data for Analysis
 
-\ **This project involves analyzing and visualizing sales data using Python libraries such as Pandas, NumPy, and Matplotlib. The key steps and insights are outlined below:
+
+
+ This project involves analyzing and visualizing sales data using Python libraries such as Pandas, NumPy, and Matplotlib. The key steps and insights are outlined below:
 
 ![Sales-data-analysis-for-sales-managers](https://github.com/rbhardwaj2186/Sales_Market_Data_Analysis/assets/143745073/6d675666-ede9-43f1-9c86-6860c3851e09)
 
