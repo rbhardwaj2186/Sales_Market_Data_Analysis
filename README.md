@@ -14,7 +14,8 @@ Exploring Sales Market Data for Analysis
 ![Sales-data-analysis-for-sales-managers](https://github.com/rbhardwaj2186/Sales_Market_Data_Analysis/assets/143745073/6d675666-ede9-43f1-9c86-6860c3851e09)
 
 
-    Data Loading and Cleaning:
+     Data Loading and Cleaning:
+
         The sales data is loaded from a Feather format file into a Pandas DataFrame named 'all_data.'
         Null values are initially checked and subsequently removed using the dropna method.
         Duplicated instances are identified, examined, and then dropped from the dataset.
